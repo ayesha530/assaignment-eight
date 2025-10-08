@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body{
+     font-family: "Inter", sans-serif;
+}
+ .gradient-border-b {
+  border-bottom: 2px solid;
+  border-image: linear-gradient(to right, #632EE3, #9F62F2) 1;
+}
