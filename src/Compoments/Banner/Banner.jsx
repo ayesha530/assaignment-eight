@@ -3,7 +3,7 @@ import google from '../../assets/google-play.png'
 import apps from '../../assets/app-store.png'
 const Banner = () => {
     return (
-        <section className="bg-[#D2D2D233] py-12">
+        <section className="bg-[#D2D2D233] pt-12">
            <div className=" lg:w-[597px] m-auto">
               <div className="">
                 <h2 className="text-center text-[#001931] text-2xl lg:text-[72px] font-medium">We Build</h2>
@@ -17,7 +17,7 @@ const Banner = () => {
                 </div>
             </div>
             {/*  */}
-            <div className='my-6'>
+            <div className='mt-6'>
                 <img src={banner} alt="" />
             </div>
            </div>
