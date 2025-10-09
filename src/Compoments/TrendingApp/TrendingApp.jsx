@@ -2,9 +2,10 @@ import { FaDownload } from "react-icons/fa";
 import { FaStar } from "react-icons/fa";
 import { Link } from "react-router";
 const TrendingApp = ({ app }) => {
-    const { title, image ,downloads,ratingAvg} = app;
+    const { title, image ,downloads,ratingAvg,id} = app;
     return (
-        <div className="card bg-[#fff] shadow-sm ">
+       <Link to={`/appDetails/${id}`}>
+          <div className="card bg-[#fff] shadow-sm ">
             <figure className="p-4">
                 <img
                     src={image}
@@ -20,6 +21,7 @@ const TrendingApp = ({ app }) => {
 
             </div>
         </div>
+        </Link>
     );
 };
 

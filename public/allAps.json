@@ -4,17 +4,17 @@
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 1,
-    "description": "Stream millions of songs and podcasts for free. Discover new music every day.",
+    "description": "Spotify is the leading music streaming platform that gives you access to millions of songs, podcasts, and audio content from artists and creators worldwide. Discover new music every day with personalized playlists, curated recommendations, and genre-based collections tailored to your tastes. Create and share your own playlists, follow your favorite artists, and enjoy high-quality audio streaming on any device, whether you are at home, commuting, or exercising. Spotify also offers offline listening, podcasts covering news, entertainment, and education, and social features that let you connect with friends and see what they’re listening to. With its intuitive interface and seamless experience, Spotify makes music and audio content effortless, fun, and deeply personalized.",
     "size": 85,
     "reviews": 12000000,
     "ratingAvg": 4.5,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 8300000 }
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 8300 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 2,
-    "description": "Connect with friends, share photos and videos, and explore what's new worldwide.",
+    "description": "Instagram is a social networking platform designed to let you share your life visually through photos, videos, and stories. Connect with friends, family, and creators from around the globe, and explore trending content tailored to your interests. Use filters, effects, and editing tools to enhance your posts, engage with communities through likes, comments, and direct messages, and watch reels for entertainment and inspiration. Instagram also allows you to discover new brands, follow topics you care about, shop directly from posts, and stay updated on news and trends. Its intuitive interface, creative tools, and interactive features make it one of the most engaging platforms to express yourself, connect with others, and explore the world digitally.",
     "size": 110,
     "reviews": 25000000,
     "ratingAvg": 4.3,
     "downloads": 5000000000,
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 11500000 }
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 11500 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 3,
-    "description": "Create and share short videos with music, effects, and global trends.",
+    "description": "TikTok is the ultimate destination for short-form video content, offering endless entertainment, creativity, and inspiration. Create, edit, and share videos with music, filters, effects, and trending challenges that allow you to express yourself and connect with millions of users worldwide. Explore a personalized feed with content tailored to your interests, watch tutorials, comedy, music, dance, lifestyle, and educational videos, and engage with creators through likes, comments, and shares. TikTok’s powerful algorithm helps you discover hidden talents, viral trends, and new communities, while its editing tools empower you to produce professional-looking videos effortlessly. Whether you want to laugh, learn, or showcase your creativity, TikTok provides an immersive and dynamic experience for all users.",
     "size": 95,
     "reviews": 18000000,
     "ratingAvg": 4.6,
     "downloads": 3000000000,
     "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 10500000 }
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 1050 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 4,
-    "description": "Watch and share videos from around the world, subscribe to your favorite creators.",
+    "description": "YouTube is the world’s largest video-sharing platform, where you can watch, upload, and share videos across countless categories including education, entertainment, music, lifestyle, gaming, and more. Follow your favorite creators, subscribe to channels, and receive personalized recommendations based on your viewing habits. YouTube allows you to livestream events, participate in community discussions, and enjoy high-quality video playback on multiple devices. From tutorials and product reviews to vlogs, movies, and original content, YouTube provides a vast library of videos to keep you informed, entertained, and inspired. Its intuitive interface, robust search, and interactive features make it easy to discover, learn, and share knowledge with people worldwide.",
     "size": 120,
     "reviews": 30000000,
     "ratingAvg": 4.4,
     "downloads": 10000000000,
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 2200000 },
-      { "name": "3 star", "count": 4500000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 12800000 }
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2200 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 1900 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms Inc.",
     "id": 5,
-    "description": "Fast, simple, and secure messaging and calling for free, available worldwide.",
+    "description": "WhatsApp Messenger offers fast, simple, and secure messaging and calling for free, connecting you with friends and family across the globe. Share text messages, voice notes, photos, videos, documents, and live locations with ease. Enjoy high-quality voice and video calls, create group chats, and communicate securely with end-to-end encryption. WhatsApp also offers features like status updates, stickers, and chat backups, making it a reliable and versatile messaging platform. Whether for personal or professional use, WhatsApp keeps you connected in a secure and intuitive environment.",
     "size": 70,
     "reviews": 22000000,
     "ratingAvg": 4.7,
     "downloads": 5000000000,
     "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 16400000 }
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 16500 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "title": "Facebook",
     "companyName": "Meta Platforms Inc.",
     "id": 6,
-    "description": "Stay connected with friends, share updates, photos, and join communities.",
+    "description": "Facebook is a comprehensive social networking platform that helps you stay connected with friends, family, and communities worldwide. Share status updates, photos, videos, and events, join groups, and follow pages that match your interests. With Messenger integration, you can chat privately, make voice or video calls, and participate in live events. Facebook’s algorithms help you discover trending topics, news, and personalized recommendations for content and communities. Its intuitive interface, interactive features, and social networking tools make Facebook a central hub for communication, entertainment, and engagement.",
     "size": 150,
     "reviews": 28000000,
     "ratingAvg": 4.2,
     "downloads": 5000000000,
     "ratings": [
-      { "name": "1 star", "count": 2000000 },
-      { "name": "2 star", "count": 2500000 },
-      { "name": "3 star", "count": 5000000 },
-      { "name": "4 star", "count": 8500000 },
-      { "name": "5 star", "count": 10000000 }
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 8450 },
+      { "name": "5 star", "count": 1000 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 7,
-    "description": "Share moments instantly with friends through snaps and chat messages.",
+    "description": "Snapchat allows you to share moments instantly with friends through snaps, chat messages, and stories. Explore interactive lenses, filters, and augmented reality effects that make communication fun and creative. Discover trending content from creators, stay updated with news, entertainment, and viral trends, and enjoy ephemeral messaging for privacy. Snapchat also offers Snap Map to see friends’ locations, Bitmoji personalization, and Spotlight for exploring viral videos. With its dynamic interface and innovative features, Snapchat keeps social interaction playful, engaging, and fresh.",
     "size": 90,
     "reviews": 9500000,
     "ratingAvg": 4.1,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 3300000 }
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 33000 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 8,
-    "description": "Share your thoughts and follow trending news and topics in real-time.",
+    "description": "X (formerly Twitter) is a real-time social networking platform where you can share your thoughts, follow trending news, and engage with global conversations instantly. Post tweets, reply, retweet, and like content from friends, celebrities, and news sources. Explore trending topics, hashtags, and curated feeds to stay informed on politics, sports, entertainment, and more. X also offers Spaces for live audio conversations, topic-based communities, and verified accounts to help you discover credible information. Its fast-paced, interactive environment makes X an essential platform for staying connected and informed in real time.",
     "size": 100,
     "reviews": 13000000,
     "ratingAvg": 4.0,
     "downloads": 2000000000,
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 3100000 },
-      { "name": "5 star", "count": 4000000 }
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 31000 },
+      { "name": "5 star", "count": 4000 }
     ]
   },
   {
@@ -148,35 +148,35 @@
     "title": "Tinder",
     "companyName": "Match Group",
     "id": 10,
-    "description": "Swipe to connect with new people nearby or around the world.",
+    "description": "Tinder is a location-based social search mobile app that allows users to like or dislike other users based on their profiles, photos, and brief bios. Designed for dating and meeting new people, Tinder offers a fun and interactive swiping experience to match with potential partners. Users can chat once matched, discover events, and explore premium features like unlimited likes, passport to swipe globally, and enhanced visibility. With its intuitive interface, safety features, and global reach, Tinder has become one of the most popular platforms for dating, making connections, and exploring new relationships.",
     "size": 80,
     "reviews": 6000000,
     "ratingAvg": 4.0,
     "downloads": 500000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 1800000 },
-      { "name": "5 star", "count": 2500000 }
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2500 }
     ]
   },
   {
-    "image": "https://i.ibb.co/KpvkmCxr/155977510-c57dc4b0-e11f-42cf-a1f0-2e5b57323b4b.jpg this",
+    "image": "https://i.ibb.co/KpvkmCxr/155977510-c57dc4b0-e11f-42cf-a1f0-2e5b57323b4b.jpg",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 11,
-    "description": "Fast and secure messaging with cloud-based syncing across devices.",
+    "description": "Telegram is a cloud-based messaging app focused on speed, security, and reliability. It allows users to send messages, photos, videos, and files of any type, as well as create groups, channels, and bots to automate tasks or share information. Telegram offers end-to-end encryption for secret chats, self-destructing messages, and advanced privacy settings. Its multi-device support enables seamless synchronization across smartphones, tablets, and desktops. With powerful features like voice chats, polls, quizzes, and file storage, Telegram has become a versatile communication platform for personal, professional, and community use.",
     "size": 75,
     "reviews": 10000000,
     "ratingAvg": 4.5,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 700000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 7000000 }
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 7000 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 12,
-    "description": "Stream TV shows, movies, and exclusive originals anytime, anywhere.",
+    "description": "Netflix is a leading streaming service that offers an extensive library of TV shows, movies, documentaries, and exclusive original content. Users can watch anytime, anywhere, on any device with an internet connection. Netflix provides personalized recommendations, curated lists, and trending content to match your viewing preferences. Its platform supports multiple profiles, parental controls, offline downloads, and high-quality playback including 4K and HDR. Netflix continues to innovate with original productions, interactive storytelling, and global content, making it an immersive entertainment platform for viewers of all ages.",
     "size": 120,
     "reviews": 15000000,
     "ratingAvg": 4.3,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 8300000 }
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 8300 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
     "id": 13,
-    "description": "Video meetings, webinars, and chat for personal and professional use.",
+    "description": "Zoom is a video communication platform that provides video conferencing, webinars, chat, and collaboration tools for personal and professional use. Users can host and join meetings with HD video and audio, share screens, record sessions, and collaborate using whiteboards and breakout rooms. Zoom supports cross-device functionality, allowing seamless participation on desktop, mobile, and conference room systems. Its features include scheduling integrations, virtual backgrounds, meeting security, and engagement analytics. Zoom has become a staple for remote work, online learning, and virtual events worldwide, offering reliable and high-quality video communication solutions.",
     "size": 110,
     "reviews": 8000000,
     "ratingAvg": 4.4,
     "downloads": 500000000,
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 4600000 }
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4600 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "title": "LinkedIn",
     "companyName": "Microsoft Corp.",
     "id": 14,
-    "description": "Professional networking platform to connect, share, and grow your career.",
+    "description": "LinkedIn is a professional networking platform that allows individuals and businesses to connect, share content, and grow careers. Users can build a professional profile, showcase skills, achievements, and endorsements, and expand their network by connecting with colleagues, industry peers, and potential employers. LinkedIn offers job postings, company pages, news updates, professional learning courses, and discussion forums. It also provides tools for recruiters and organizations to identify talent, manage campaigns, and engage with the professional community. LinkedIn has become the essential platform for career development, professional networking, and industry insights worldwide.",
     "size": 100,
     "reviews": 7000000,
     "ratingAvg": 4.2,
     "downloads": 800000000,
     "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 2500000 },
-      { "name": "5 star", "count": 3800000 }
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 38000 }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "title": "Pinterest",
     "companyName": "Pinterest Inc.",
     "id": 15,
-    "description": "Discover ideas, collect inspirations, and share your boards with others.",
+    "description": "Pinterest is a visual discovery engine that helps you find inspiration, ideas, and projects for every aspect of life. Users can browse and save pins on boards, explore trending topics, and discover creative solutions for home, fashion, recipes, travel, and more. Pinterest offers personalized recommendations, visual search tools, shopping integrations, and collaborative boards for group projects. The platform allows users to connect with like-minded individuals, plan events, and collect inspirations from around the world. Pinterest’s interface makes creativity accessible, organized, and shareable for both personal and professional purposes.",
     "size": 90,
     "reviews": 5000000,
     "ratingAvg": 4.1,
     "downloads": 400000000,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 1500000 },
-      { "name": "5 star", "count": 2400000 }
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 2400 }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "title": "Shazam",
     "companyName": "Apple Inc.",
     "id": 16,
-    "description": "Identify music playing around you instantly and discover song lyrics.",
+    "description": "Shazam is a music recognition app that identifies songs playing around you instantly. Simply tap to discover the song title, artist, album, lyrics, and music videos. Shazam allows you to save your discovered tracks, listen on streaming platforms, and share music with friends. The app also provides curated playlists, charts, and recommendations based on your music taste. Shazam’s fast recognition technology and integration with platforms like Apple Music and Spotify make it an essential tool for music enthusiasts and casual listeners alike, offering a seamless way to explore and enjoy new music.",
     "size": 60,
     "reviews": 3000000,
     "ratingAvg": 4.6,
     "downloads": 600000000,
     "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 900000 },
-      { "name": "5 star", "count": 1550000 }
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 15500 }
     ]
   },
   {
@@ -274,35 +274,35 @@
     "title": "Duolingo",
     "companyName": "Duolingo Inc.",
     "id": 17,
-    "description": "Learn new languages easily with fun exercises and interactive lessons.",
+    "description": "Duolingo is a fun and interactive language-learning platform that helps users learn new languages through gamified exercises, lessons, and quizzes. The app offers hundreds of language courses with reading, writing, speaking, and listening practices. Users earn rewards, track progress, and engage in friendly competitions to stay motivated. Duolingo also includes chatbots, stories, and real-life conversation simulations to improve practical language skills. With its accessible and enjoyable approach, Duolingo empowers learners to build confidence and proficiency in foreign languages at their own pace.",
     "size": 85,
     "reviews": 6000000,
     "ratingAvg": 4.7,
     "downloads": 500000000,
     "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 1500000 },
-      { "name": "5 star", "count": 4200000 }
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 4200 }
     ]
   },
   {
-    "image": "https://i.ibb.co/TxcRfkNL/5894652-57123.jpg  ",
+    "image": "https://i.ibb.co/TxcRfkNL/5894652-57123.jpg",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 18,
-    "description": "Navigate, explore, and find places worldwide with real-time traffic updates.",
+    "description": "Google Maps is a navigation and mapping service that helps users explore and find places worldwide. It offers real-time GPS navigation, traffic updates, route planning, and public transit information. Users can discover restaurants, attractions, hotels, and local businesses with reviews, photos, and ratings. Google Maps also includes Street View, satellite imagery, and offline maps for convenient access. Its integration with Google Search, personalized recommendations, and ability to save favorite locations make it an indispensable tool for travel, commuting, and local exploration.",
     "size": 100,
     "reviews": 12000000,
     "ratingAvg": 4.6,
     "downloads": 2000000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1500000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 8500000 }
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 8500 }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "title": "Uber",
     "companyName": "Uber Technologies Inc.",
     "id": 19,
-    "description": "Book rides, track your trips, and get to your destination safely and quickly.",
+    "description": "Uber is a ride-hailing platform that connects riders with drivers for fast, reliable, and convenient transportation. Users can book rides, track their trips, view fare estimates, and pay seamlessly through the app. Uber offers multiple ride options including UberX, UberXL, and UberPOOL, catering to individual or group travel needs. The app also provides safety features such as driver ratings, trip sharing, and emergency assistance. Beyond rides, Uber includes services like food delivery (Uber Eats) and freight logistics, making it a versatile mobility and delivery platform used worldwide.",
     "size": 95,
     "reviews": 7000000,
     "ratingAvg": 4.3,
     "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 2000000 },
-      { "name": "5 star", "count": 3300000 }
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3300 }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "title": "Amazon",
     "companyName": "Amazon Inc.",
     "id": 20,
-    "description": "Shop millions of products, track orders, and get fast delivery worldwide.",
+    "description": "Amazon is the world’s largest e-commerce platform, providing a vast marketplace to shop for millions of products including electronics, books, fashion, groceries, and more. Users can track orders, read reviews, compare prices, and enjoy fast delivery with Amazon Prime. The platform offers personalized recommendations, wish lists, and a seamless checkout experience. Amazon also features digital services such as Prime Video, Kindle, and Alexa integration. With its customer-centric approach, global reach, and innovative services, Amazon continues to revolutionize online shopping and digital convenience for millions of users worldwide.",
     "size": 120,
     "reviews": 15000000,
     "ratingAvg": 4.4,
     "downloads": 2000000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 4500000 },
-      { "name": "5 star", "count": 7750000 }
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 2500},
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 775 }
     ]
   }
 ]

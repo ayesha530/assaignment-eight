@@ -4,6 +4,7 @@ import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 import { TbBrandYoutubeKids } from "react-icons/tb";
 import Home from "../Pages/Home/Home";
 import Apps from "../Pages/App/Apps";
+import AppDetailsPage from "../Compoments/AppDetailsPage/AppDetailsPage";
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -12,15 +13,20 @@ export const router = createBrowserRouter([
     children: [
       {
         index: true,
-        path:'/',
+        path: '/',
         loader: () => fetch('/apps.json').then(res => res.json()),
         Component: Home
 
-      }, 
+      },
       {
         path: '/apps',
         loader: () => fetch('/allAps.json').then(res => res.json()),
         Component: Apps
+      },
+      {
+        path: '/appDetails/:id',
+        loader: () => fetch('/allAps.json').then(res => res.json()),
+        Component: AppDetailsPage
       }
     ]
   },

@@ -1,13 +1,15 @@
-
+import { NavLink } from 'react-router';
 
 const Footer = () => {
+   const links = <>
+        <NavLink to='/' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#ffffff] font-medium text-[16px] mr-3'}>Homes</NavLink>
+        <NavLink to='/apps' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#fff] font-medium text-[16px] mr-3'}>Apps</NavLink>
+        <NavLink to='/installation' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#fff] font-medium text-[16px] mr-3'}>Installation</NavLink>
+      </>
     return (
-       <footer className="footer footer-horizontal footer-center bg-base-200 text-base-content rounded p-10">
+       <footer className="footer footer-horizontal footer-center bg-[rgb(0,25,49)]  rounded p-10 text-[#ffffff]">
   <nav className="grid grid-flow-col gap-4">
-    <a className="link link-hover">About us</a>
-    <a className="link link-hover">Contact</a>
-    <a className="link link-hover">Jobs</a>
-    <a className="link link-hover">Press kit</a>
+    {links}
   </nav>
   <nav>
     <div className="grid grid-flow-col gap-4">
@@ -47,7 +49,7 @@ const Footer = () => {
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+    <p className='text-[#FAFAFA] text-[16px]'>Copyright © 2025 - All right reserved</p>
   </aside>
 </footer>
     );
