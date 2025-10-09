@@ -1,0 +1,344 @@
+[
+  {
+    "image": "https://i.ibb.co/Q3rs3k1K/8247095-3820940.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs and podcasts for free. Discover new music every day.",
+    "size": 85,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 8300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/XxsNJtBY/145855283-1c44177c-2b9f-42dd-bcbd-b618545a0d23.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Connect with friends, share photos and videos, and explore what's new worldwide.",
+    "size": 110,
+    "reviews": 25000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/N6JByxtY/9832671-2697.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 3,
+    "description": "Create and share short videos with music, effects, and global trends.",
+    "size": 95,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/hxfMHW4W/4451486-2287717.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch and share videos from around the world, subscribe to your favorite creators.",
+    "size": 120,
+    "reviews": 30000000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 2200000 },
+      { "name": "3 star", "count": 4500000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 12800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0jgVTmKj/3069259-713.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 5,
+    "description": "Fast, simple, and secure messaging and calling for free, available worldwide.",
+    "size": 70,
+    "reviews": 22000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 16400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/6cmrtQws/1106647-109608-OOPBYQ-775.jpg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "Stay connected with friends, share updates, photos, and join communities.",
+    "size": 150,
+    "reviews": 28000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 8500000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/YB3QmKCH/149293344-fd28d2fb-2bc7-482a-83cf-6ab4ee775748.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Share moments instantly with friends through snaps and chat messages.",
+    "size": 90,
+    "reviews": 9500000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/DyjkCBN/alexander-shatov-k1xf2-D7j-WUs-unsplash.jpg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 8,
+    "description": "Share your thoughts and follow trending news and topics in real-time.",
+    "size": 100,
+    "reviews": 13000000,
+    "ratingAvg": 4.0,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 3100000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/VJxN2bH/tinder.jpg",
+    "title": "Tinder",
+    "companyName": "Match Group",
+    "id": 10,
+    "description": "Swipe to connect with new people nearby or around the world.",
+    "size": 80,
+    "reviews": 6000000,
+    "ratingAvg": 4.0,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/KpvkmCxr/155977510-c57dc4b0-e11f-42cf-a1f0-2e5b57323b4b.jpg this",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 11,
+    "description": "Fast and secure messaging with cloud-based syncing across devices.",
+    "size": 75,
+    "reviews": 10000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/rK04ffyg/2148425099.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 12,
+    "description": "Stream TV shows, movies, and exclusive originals anytime, anywhere.",
+    "size": 120,
+    "reviews": 15000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 8300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/B5L0P34w/146501475-dc80a368-7401-4ab5-b81c-6e08873b7b9d-1.jpg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 13,
+    "description": "Video meetings, webinars, and chat for personal and professional use.",
+    "size": 110,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/8gkNZqV0/132199.jpg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corp.",
+    "id": 14,
+    "description": "Professional networking platform to connect, share, and grow your career.",
+    "size": 100,
+    "reviews": 7000000,
+    "ratingAvg": 4.2,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/r2dCBLDg/1201196-2938.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 15,
+    "description": "Discover ideas, collect inspirations, and share your boards with others.",
+    "size": 90,
+    "reviews": 5000000,
+    "ratingAvg": 4.1,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/s9dxhCW5/33168705-tb-07.jpg",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 16,
+    "description": "Identify music playing around you instantly and discover song lyrics.",
+    "size": 60,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1550000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/FLGXXgT9/2776316-398381-PCP62-B-928.jpg",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 17,
+    "description": "Learn new languages easily with fun exercises and interactive lessons.",
+    "size": 85,
+    "reviews": 6000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TxcRfkNL/5894652-57123.jpg  ",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Navigate, explore, and find places worldwide with real-time traffic updates.",
+    "size": 100,
+    "reviews": 12000000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/C3SqWzzX/6444028-3318683.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 19,
+    "description": "Book rides, track your trips, and get to your destination safely and quickly.",
+    "size": 95,
+    "reviews": 7000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/xKJRqnbz/rubaitul-azad-J0eq-Dg-SQDYg-unsplash.jpg",
+    "title": "Amazon",
+    "companyName": "Amazon Inc.",
+    "id": 20,
+    "description": "Shop millions of products, track orders, and get fast delivery worldwide.",
+    "size": 120,
+    "reviews": 15000000,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 7750000 }
+    ]
+  }
+]
