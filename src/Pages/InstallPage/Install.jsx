@@ -1,13 +1,19 @@
 import { useEffect, useState } from "react";
 import icon from '../../assets/icon-downloads.png';
 import star from '../../assets/icon-ratings.png';
-import like from '../../assets/icon-review.png';
 import { useLoaderData } from "react-router";
-import { getUtilities } from "../../Utilities/Utilities";
+import {  getUtilities } from "../../Utilities/Utilities";
 import { MdPhotoSizeSelectSmall } from "react-icons/md";
 
 
 const Install = () => {
+  const removeFormData = (id)=>{
+    const storeData = getUtilities();
+    const newStoreData = storeData.filter(appId => appId !== Number(id));
+    localStorage.setItem('install',JSON.stringify(newStoreData));
+
+
+  }
   const [installList, setInstallList] = useState([]);
   const [sort, setSorts] = useState('');
   const data = useLoaderData();
@@ -17,7 +23,10 @@ const Install = () => {
     const myInstallList = data.filter(app => convertedDataStoreData.includes(app.id));
     setInstallList(myInstallList)
   }, [data])
-
+  const handleInstall = (id) =>{
+    removeFormData(id);
+    setInstallList(p => p.filter(app => app.id !== id));
+  }
   const sortSizeItem = ()=>{
     if(sort === 'size-asc'){
            return [...installList].sort((a,b)=> a.size - b.size)
@@ -92,7 +101,7 @@ const Install = () => {
                    
                 </div>
                 <div className="flex justify-center items-center p-4">
-                  <button className="bg-[#00D390] text-[#fff] btn">Uninstall</button>
+                  <button onClick={()=> handleInstall(app.id)} className="bg-[#00D390] text-[#fff] btn">Uninstall</button>
                 </div>
             </div>
            
