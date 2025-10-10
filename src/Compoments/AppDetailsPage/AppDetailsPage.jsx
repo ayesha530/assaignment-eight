@@ -4,7 +4,7 @@ import star from '../../assets/icon-ratings.png';
 import like from '../../assets/icon-review.png';
 import { ToastContainer, toast } from 'react-toastify';
 import { addToStoreDb, getUtilities } from "../../Utilities/Utilities";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, LabelList } from 'recharts';
 import { useEffect, useState } from "react";
 
 const AppDetailsPage = () => {
@@ -84,17 +84,48 @@ const AppDetailsPage = () => {
             </div>
 
             <h3 className="text-[#001931] text-xl font-bold my-4">Rating</h3>
+            {/*  */}
 
-            <div className="flex justify-center">
-                <BarChart width={600} height={300} data={appData}>
-                    <YAxis tickFormatter={value => `${value / 1000}k`} domain={[0, 'auto']} />
-                    <XAxis dataKey="name" stroke="#FF8811" />
-                    <Tooltip formatter={value => `${value / 1000}k`} wrapperStyle={{ backgroundColor: "#ccc" }} />
-                    <Legend />
-                    <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
-                    <Bar dataKey="count" fill="#FF8811" barSize={30} />
+            <div className="flex justify-center bg-white rounded-xl shadow p-4">
+                <BarChart
+                    width={600}
+                    height={250}
+                    data={appData}
+                    layout="vertical"
+                    margin={{ top: 10, right: 30, left: 50, bottom: 30 }}
+                >
+                    <CartesianGrid stroke="#eee" strokeDasharray="3 3" />
+
+                    {/*  axis */}
+                    <XAxis
+                        type="number"
+                        tickFormatter={(value) =>
+                            new Intl.NumberFormat("en", { notation: "compact" }).format(value)
+                        }
+                        tick={{ fill: "#001931", fontWeight: 500 }}
+                        axisLine={{ stroke: "#ccc" }}
+                    />
+
+                    <YAxis
+                        type="category"
+                        dataKey="name"
+                        tick={{ fill: "#001931", fontWeight: 500 }}
+                        width={70}
+                    />
+
+                    <Tooltip
+                        formatter={(value) =>
+                            new Intl.NumberFormat("en", { notation: "compact" }).format(value)
+                        }
+                        cursor={{ fill: "#f8f8f8" }}
+                    />
+
+                    <Bar dataKey="count" barSize={20} radius={[0, 10, 10, 0]} fill="#FF8811" />
                 </BarChart>
             </div>
+
+
+            {/*  */}
 
             <div className="mb-5">
                 <h3 className="text-[#001931] text-2xl mb-2 font-semibold">Description:</h3>

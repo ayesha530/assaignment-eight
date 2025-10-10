@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 const NavBar = () => {
    
     const links = <>
-      <NavLink to='/' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#000000] font-medium text-[16px] mr-3'}>Homes</NavLink>
+       <NavLink to='/' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#000000] font-medium text-[16px] mr-3'}>Homes</NavLink>
       <NavLink to='/apps' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#000000] font-medium text-[16px] mr-3'}>Apps</NavLink>
       <NavLink to='/install' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#000000] font-medium text-[16px] mr-3'}>Installation</NavLink>
     </>
