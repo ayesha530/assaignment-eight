@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router';
-
+import logo from '../../assets/logo.png'
 const Footer = () => {
    const links = <>
         <NavLink to='/' className={({isActive}) => isActive ? 'font-medium bg-gradient-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent text-[16px] mr-3 gradient-border-b': 'text-[#ffffff] font-medium text-[16px] mr-3'}>Homes</NavLink>
@@ -8,6 +8,10 @@ const Footer = () => {
       </>
     return (
        <footer className="footer footer-horizontal footer-center bg-[rgb(0,25,49)]  rounded p-10 text-[#ffffff]">
+       <div className="flex justify-center items-center mt-4">
+         <img src={logo} className='w-[40px]'/>
+        <a className="text-xl">HERO.IO</a>
+       </div>
   <nav className="grid grid-flow-col gap-4">
     {links}
   </nav>
