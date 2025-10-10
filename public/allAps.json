@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/VJxN2bH/tinder.jpg",
+    "image": "https://i.ibb.co/ccJYtVgN/8135001-3776861.jpg",
     "title": "Tinder",
     "companyName": "Match Group",
     "id": 10,
@@ -339,6 +339,24 @@
       { "name": "3 star", "count": 2500},
       { "name": "4 star", "count": 4500 },
       { "name": "5 star", "count": 775 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/fd23hqkv/33485014-m024t0255-a-discord-16oct22.jpg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 17,
+    "description":  "Reddit is a vast network of communities where people can dive into their interests, hobbies, and passions. Whether you’re into technology, gaming, movies, fitness, or funny memes, there’s a subreddit for everything. Join millions of users around the world to share stories, ask questions, post photos, and discover trending discussions. With upvotes and comments, the best content rises to the top, creating a constantly fresh and engaging experience. Follow topics you love, connect with like-minded people, and stay updated with real-time conversations happening across the internet.",
+    "size": 110,
+    "reviews": 7000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2600000 }
     ]
   }  
 ]

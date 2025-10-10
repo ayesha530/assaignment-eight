@@ -4,7 +4,8 @@ import star from '../../assets/icon-ratings.png';
 import { useLoaderData } from "react-router";
 import {  getUtilities } from "../../Utilities/Utilities";
 import { MdPhotoSizeSelectSmall } from "react-icons/md";
-
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Install = () => {
   const removeFormData = (id)=>{
@@ -26,12 +27,13 @@ const Install = () => {
   const handleInstall = (id) =>{
     removeFormData(id);
     setInstallList(p => p.filter(app => app.id !== id));
+    toast.success("App Uninstall!");
   }
   const sortSizeItem = ()=>{
-    if(sort === 'size-asc'){
-           return [...installList].sort((a,b)=> a.size - b.size)
-    }else if(sort ==='size-dsc'){
-      return [...installList].sort((a,b)=> b.size - a.size)
+    if(sort === 'download-asc'){
+           return [...installList].sort((a,b)=> a.downloads - b.downloads)
+    }else if(sort ==='download-dsc'){
+      return [...installList].sort((a,b)=> b.downloads - a.downloads)
     }else{
      return installList
     }
@@ -50,8 +52,8 @@ const Install = () => {
           <label className="form-control">
              <select className="select select-bordered" value={sort} onChange={e => setSorts(e.target.value)}>
               <option value="none">Sort By Size</option>
-              <option value="size-asc">Low to High</option>
-              <option value="size-dsc">High to Low</option>
+              <option value="download-asc">Low to High</option>
+              <option value="download-dsc">High to Low</option>
 
              </select>
 
@@ -108,7 +110,7 @@ const Install = () => {
         ))}
       </div>
       </div>
-      
+      <ToastContainer position="top-right" autoClose={2000} />
     </section>
   );
 };

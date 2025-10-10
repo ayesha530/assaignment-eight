@@ -1,12 +1,15 @@
+import { Outlet, useNavigation } from "react-router";
 import NavBar from "../../Compoments/NavBar/NavBar";
 import Footer from "../../Compoments/Footer/Footer";
-import { Outlet } from "react-router";
+import FullPageLoader from "../../Compoments/FullPageLoader/FullPageLoader";
 
 
 const Root = () => {
+     const navigation = useNavigation();
+
     return (
         <div className="">
-            <NavBar></NavBar>
+            <NavBar> {navigation.state === "loading" && <FullPageLoader />}</NavBar>
             <Outlet></Outlet>
             <Footer></Footer>
         </div>
